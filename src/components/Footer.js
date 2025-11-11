@@ -18,7 +18,7 @@ export function Footer() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        View source code
+        Privacy Policy
       </a>
       <div className="card-footer-credits">
         Built by{" "}
@@ -28,7 +28,7 @@ export function Footer() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Neurosity
+          Yana
         </a>
       </div>
       <button

@@ -11,7 +11,7 @@ export function LoginForm({ onLogin, loading, error, footerComponent }) {
 
   return (
     <form className="card login-form" onSubmit={onSubmit}>
-      <h3 className="card-heading">Login</h3>
+      <h3 className="card-heading">Yana Neuro Feedback</h3>
       {!!error ? <h4 className="card-error">{error}</h4> : null}
       <div className="row">
         <label>Email</label>
